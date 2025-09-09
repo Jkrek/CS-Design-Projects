@@ -7,7 +7,12 @@ LinkedIn: https://www.linkedin.com/in/jaredkrekeler/
 
 ## Co-op Work Experience
 ### P&G Digital Accelerator | Cincinnati, Ohio Aug 2025 - Present
+Automated modeling & simulation workflows using HEEDS and JMP.
+Built AI agent pipelines to streamline simulation tasks.
+Applied statistical analysis in JMP to validate optimization results.
+Standardized workflows to improve reproducibility and efficiency.
 
+Integrated ML-driven automation to accelerate design exploration.
 ### TQL | Cincinnati, Ohio Jan 2025 – Aug 2025
 Data Science & Analytics Intern
 • Fine-tuned a production XGBoost pricing model, improving forecast accuracy for real-time rate recommendations by
