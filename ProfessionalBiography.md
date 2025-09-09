@@ -30,3 +30,7 @@ failure determinations
 - Built and deployed an interactive front-end with player name input and utilized Docker for containerization for future
 scalable deployment
 ## Project Sought
+- Analytics Projects
+- AI / Reinforcement Learning Projects
+- Machine Learning Projects
+- Data Science Projects
