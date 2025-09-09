@@ -3,7 +3,7 @@
 ## Contact Info
 Email: krekeljd@mail.uc.edu
 Phone: 513-800-3476
-LinkedIn: [title](https://www.linkedin.com/in/jaredkrekeler/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/jaredkrekeler/)
 
 ## Co-op Work Experience
 ### P&G Digital Accelerator | Cincinnati, Ohio Aug 2025 - Present
