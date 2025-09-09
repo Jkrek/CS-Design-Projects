@@ -6,7 +6,9 @@ Phone: 513-800-3476
 LinkedIn: https://www.linkedin.com/in/jaredkrekeler/
 
 ## Co-op Work Experience
-### TQL | Cincinnati, Ohio Jan 2025 – Present
+### P&G Digital Accelerator | Cincinnati, Ohio Aug 2025 - Present
+
+### TQL | Cincinnati, Ohio Jan 2025 – Aug 2025
 Data Science & Analytics Intern
 • Fine-tuned a production XGBoost pricing model, improving forecast accuracy for real-time rate recommendations by
 8%, providing a core component to brokers
