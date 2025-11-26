@@ -107,12 +107,3 @@ Since this project is completed independently, all effort across all tasks is as
 | Maintain version control | 100% |
 
 ---
-
-If you want, I can also:
-
-- turn this into a **PDF** with heading styles and table borders  
-- adjust the dates to your actual semester calendar  
-- rewrite the milestones to match your professor’s examples exactly  
-- convert all tasks into numbered tables  
-
-Just tell me and I’ll format it perfectly.
