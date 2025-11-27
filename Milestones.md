@@ -43,35 +43,35 @@ Dates use simple approximate ranges suitable for semester-long planning.
 
 | Task | Start Date | End Date |
 |------|------------|----------|
-| Identify datasets | Jan 20 | Jan 25 |
-| Obtain raw data | Jan 25 | Jan 30 |
-| Clean datasets | Jan 30 | Feb 10 |
-| Engineer features | Feb 5 | Feb 15 |
-| Document preprocessing | Feb 10 | Feb 16 |
-| Design model selection strategy | Feb 16 | Feb 20 |
-| Develop multiple models | Feb 20 | Mar 1 |
-| Train selected models | Mar 1 | Mar 10 |
-| Validate models | Mar 10 | Mar 15 |
-| Register final model | Mar 15 | Mar 16 |
-| **Milestone 1: Data Acquisition Completed** | — | Jan 30 |
-| **Milestone 2: Feature Engineering Completed** | — | Feb 15 |
-| Design backend architecture | Mar 16 | Mar 20 |
-| Develop backend API | Mar 20 | Apr 1 |
-| Integrate backend with database | Apr 1 | Apr 5 |
-| Test backend end-to-end | Apr 5 | Apr 10 |
-| Implement model explanations | Apr 10 | Apr 12 |
-| **Milestone 3: Backend Completed** | — | Apr 12 |
-| Design frontend UI | Apr 12 | Apr 18 |
-| Develop frontend UI | Apr 18 | Apr 28 |
-| Create visual components | Apr 20 | Apr 30 |
-| **Milestone 4: Frontend Completed** | — | Apr 30 |
-| Deploy full system | May 1 | May 5 |
-| Evaluate usability and performance | May 5 | May 10 |
-| Refine and improve system | May 10 | May 15 |
-| Document entire system | May 15 | May 20 |
-| **Milestone 5: Deployment Completed** | — | May 5 |
-| **Milestone 6: Final Documentation Completed** | — | May 20 |
-| **Milestone 7: Final Deliverables Submitted** | — | May 25 |
+| Identify datasets | Aug 10 | Aug 15 |
+| Obtain raw data | Aug 15 | Aug 16 |
+| Clean datasets | Aug 18 | Aug 20 |
+| Engineer features | Aug 21 | Aug 28 |
+| Document preprocessing | Aug 30 | Sept 2 |
+| Design model selection strategy | Sep 3 | Sep 7 |
+| Develop multiple models | Sep 8 | Sep 11 |
+| Train selected models | Sep 12 | Sep 13 |
+| Validate models | Sep 13 | Sep 14 |
+| Register final model | Sep 14 | Sep 14 |
+| **Milestone 1: Data Acquisition Completed** | — | Sept 15 |
+| **Milestone 2: Feature Engineering Completed** | — | Sept 20 |
+| Design backend architecture | Sep 21 | Sep 23 |
+| Develop backend API | Sep 23 | Sep 24 |
+| Integrate backend with database | Sep 24 | Sep 25 |
+| Test backend end-to-end | Sep 25 | Sep 28 |
+| Implement model explanations | Sep 29 | Sep 30 |
+| **Milestone 3: Backend Completed** | — | Nov 1 |
+| Design frontend UI | Nov 2 | Nov 10 |
+| Develop frontend UI | Nov 11 | Nov 15 |
+| Create visual components | Nov 16 | Nov 20 |
+| **Milestone 4: Frontend Completed** | — | Nov 21 |
+| Deploy full system | Nov 22 | Nov 22 |
+| Evaluate usability and performance | Nov 23 | Nov 23 |
+| Refine and improve system | Nov 23 | Nov 24 |
+| Document entire system | Nov 24 | Nov 26 |
+| **Milestone 5: Deployment Completed** | — | Nov 26 |
+| **Milestone 6: Final Documentation Completed** | — | Nov 27 |
+| **Milestone 7: Final Deliverables Submitted** | — | Nov 27 |
 
 ---
 
