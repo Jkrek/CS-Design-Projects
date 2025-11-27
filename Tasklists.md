@@ -20,9 +20,9 @@
 
 6. Design the model selection strategy using evaluation metrics such as accuracy, AUC, and calibration to determine the best modeling approach.
 
-7. Develop multiple supervised learning models to compare baseline and advanced model performance for predictive accuracy.
+7. Develop a supervised learning model to compare baseline and advanced model performance for predictive accuracy.
 
-8. Train selected models using cross-validation and hyperparameter tuning so that the final model is optimized and stable.
+8. Train selected model using cross-validation and hyperparameter tuning so that the final model is optimized and stable.
 
 9. Validate the trained models using test sets, calibration checks, and fairness considerations to ensure sound and trustworthy predictions.
 
